@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <string name="click_me">Click me!</string>
+    <string name="clicked">You are hero!</string>
+    <string name="click_a_button">Click a button</string>
+    <string name="end_text">Some text</string>
+</resources>
