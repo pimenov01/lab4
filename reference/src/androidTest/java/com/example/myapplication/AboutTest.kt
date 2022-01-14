@@ -37,7 +37,7 @@ class AboutTest {
 
     @Test
     fun firstUp() {
-        //launchActivity<MainActivity>()
+        launchActivity<MainActivity>()
         openAbout()
         aboutUp()
         pressBackUnconditionally()
